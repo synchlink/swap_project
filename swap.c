@@ -10,7 +10,7 @@ int main () {
        a = b;
        b = temp;
        printf("Here is number after swap: \n");
-       printf("a = %lf", a);
-       printf("b = %lf", b);
+       printf("a = %lf", a\n);
+       printf("b = %lf", b\n);
        return 0;
 }
